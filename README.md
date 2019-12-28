@@ -27,6 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Bullet Point
 
-* Bullet 1
-* Bullet 2
-* etc
+

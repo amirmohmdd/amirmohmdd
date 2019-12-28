@@ -13,6 +13,6 @@ int main()
 		t+=chr[i][0];
 		if(t%pr<chr[i][1]) t+=chr[i][1]-(t%pr);
 	}
-	t+=final
+	t+=final;
 	printf("%d",t);
 }
